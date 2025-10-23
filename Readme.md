@@ -1,7 +1,7 @@
 # Klyra AI - Skincare Chatbot
 
 <div align="center">
-  <img src="https://i.ibb.co.com/VpH4xz6s/image.png" alt="Klyra AI Chatbot Interface" width="600"/>
+  <img src="https://i.ibb.co/VpH4xz6s/image.png" alt="Klyra AI Chatbot Interface" width="600" onerror="this.style.display='none'"/>
   
   <p><em>Transform your skincare routine with AI-powered dermatology expertise</em></p>
   
@@ -131,7 +131,7 @@ Klyra-AI/
   <h3>🌟 Ready to revolutionize skincare advice?</h3>
   <p>Start building your AI-powered dermatology assistant today!</p>
   
-  [![Star](https://img.shields.io/github/stars/your-repo?style=social)](https://github.com/your-repo)
-  [![Fork](https://img.shields.io/github/forks/your-repo?style=social)](https://github.com/your-repo/fork)
-  [![Issues](https://img.shields.io/github/issues/your-repo)](https://github.com/your-repo/issues)
+  [![Star](https://img.shields.io/github/stars/Pro-Sifat-Hasan/klyra?style=social)](https://github.com/Pro-Sifat-Hasan/klyra)
+  [![Fork](https://img.shields.io/github/forks/Pro-Sifat-Hasan/klyra?style=social)](https://github.com/Pro-Sifat-Hasan/klyra/fork)
+  [![Issues](https://img.shields.io/github/issues/Pro-Sifat-Hasan/klyra)](https://github.com/Pro-Sifat-Hasan/klyra/issues)
 </div>
