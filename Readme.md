@@ -1,8 +1,6 @@
 # Klyra AI - Skincare Chatbot
 
 <div align="center">
-  <img src="https://i.ibb.co/VpH4xz6s/image.png" alt="Klyra AI Chatbot Interface" width="600" onerror="this.style.display='none'"/>
-  
   <p><em>Transform your skincare routine with AI-powered dermatology expertise</em></p>
   
   [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://python.org)
@@ -130,6 +128,10 @@ Klyra-AI/
 <div align="center">
   <h3>🌟 Ready to revolutionize skincare advice?</h3>
   <p>Start building your AI-powered dermatology assistant today!</p>
+  
+  <img src="https://i.ibb.co/VpH4xz6s/image.png" alt="Klyra AI Chatbot Interface" width="700" onerror="this.style.display='none'"/>
+  
+  <br><br>
   
   [![Star](https://img.shields.io/github/stars/Pro-Sifat-Hasan/klyra?style=social)](https://github.com/Pro-Sifat-Hasan/klyra)
   [![Fork](https://img.shields.io/github/forks/Pro-Sifat-Hasan/klyra?style=social)](https://github.com/Pro-Sifat-Hasan/klyra/fork)
