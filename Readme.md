@@ -110,6 +110,14 @@ Klyra-AI/
 | **Port Conflicts** | Change ports if 8000/3000 are occupied |
 | **Dependencies** | Run `pip install -r requirements.txt` |
 
+## 🐛 Found a Bug or Have a Feature Request?
+
+We welcome contributions! If you encounter any issues or have ideas for improvements:
+
+- 🐛 **Report Bugs**: [Create an issue](https://github.com/Pro-Sifat-Hasan/klyra/issues/new?template=bug_report.md)
+- ✨ **Request Features**: [Suggest an enhancement](https://github.com/Pro-Sifat-Hasan/klyra/issues/new?template=feature_request.md)
+- 📖 **Contribute**: [Read our contributing guide](CONTRIBUTING.md)
+
 ## 📚 Documentation
 
 <div align="center">
@@ -120,6 +128,7 @@ Klyra-AI/
 | [Image Analysis](docs/image-captioning-api.md) | Photo analysis techniques |
 | [Question Suggestions](docs/question-suggestion.md) | Follow-up question generation |
 | [Prompt Engineering](docs/prompt.md) | Customize AI prompts |
+| [Model Configuration](docs/model-configuration-guide.md) | Configure LLM models and settings |
 
 </div>
 
